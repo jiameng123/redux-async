@@ -3,6 +3,9 @@
       "mocha": true,
       "node": true
     },
+    "parserOptions": {
+      "sourceType": "module"
+    },
     "globals": {
       "expect": true
     },

@@ -10,6 +10,7 @@ function  createRduxAsync(extraArgument) {
     }
 }
 
+
 function * getList(parmas) {
     
     const rest = yield axios.get();
